@@ -3,7 +3,7 @@
     "BestStories": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "beststories/get/10",
+      "launchUrl": "beststories/get/50",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
@@ -13,7 +13,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "beststories/get/10",
+      "launchUrl": "beststories/get/50",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -21,7 +21,7 @@
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/beststories/get/10",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/beststories/get/50",
       "publishAllPorts": true,
       "useSSL": true
     }
